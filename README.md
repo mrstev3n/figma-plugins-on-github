@@ -13,11 +13,11 @@ A collection of plugins that have been open-sourced.
 
 ---
 
-[A](#A) [B](#🔡ㅤB) [C](#🔡ㅤC) [D](#🔡ㅤD) [E](#🔡ㅤE) [F](#🔡ㅤF) [G](#G) [H](#🔡ㅤH) [I](#🔡ㅤI) [J](#🔡ㅤJ) [K](#🔡ㅤK) [L](#🔡ㅤL) [M](#🔡ㅤM) [N](#🔡ㅤN) [O](#🔡ㅤO) [P](#🔡ㅤP) [Q](#🔡ㅤQ) [R](#🔡ㅤR) [S](#🔡ㅤS) [T](#🔡ㅤT) [U](#🔡ㅤU) [V](#🔡ㅤV) [W](#🔡ㅤW) [X](#🔡ㅤX) [Y](#🔡ㅤY) [Z](#🔡ㅤZ)
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
 ---
 
-### 🔡ㅤA
+### A
 
 #### Android Resources Export
 
@@ -27,7 +27,7 @@ Export multiple sizes PNG from selected slice or exportable layer, with a fixed 
 
 ---
 
-### 🔡ㅤB
+### B
 
 #### Batch Styler
 
@@ -43,7 +43,7 @@ Better Font Picker helps you select fonts with a preview of how it looks.
 
 ---
 
-### 🔡ㅤC
+### C
 
 #### Chroma
 
@@ -65,7 +65,7 @@ A Figma Plugin that makes replacing text content in multiple layers super easy f
 
 ---
 
-### 🔡ㅤD
+### D
 
 #### Design Lint
 
@@ -81,7 +81,7 @@ Generate a palette from an image to magically populate your designs.
 
 ---
 
-### 🔡ㅤE
+### E
 
 #### Easing Gradient
 
@@ -173,11 +173,11 @@ Utilizes built-in Figma rectangles, lines, and texts to generate tables with nea
 
 ---
 
-### 🔡ㅤH
+### H
 
 ---
 
-### 🔡ㅤI
+### I
 
 #### Image Palette
 
@@ -187,11 +187,11 @@ Extracts a colour palette of 5 different colours from the selected images.
 
 ---
 
-### 🔡ㅤJ
+### J
 
 ---
 
-### 🔡ㅤK
+### K
 
 #### Kaleidocode
 
@@ -201,7 +201,7 @@ Convert VS Code themes to Figma color libraries, create new themes via JSON, and
 
 ---
 
-### 🔡ㅤL
+### L
 
 #### Lazy Export
 
@@ -211,11 +211,11 @@ Lazy Export allows the user to quickly apply default export settings to selected
 
 ---
 
-### 🔡ㅤM
+### M
 
 ---
 
-### 🔡ㅤN
+### N
 
 #### Navigator
 
@@ -231,11 +231,11 @@ Nester will nest any object that resides above (but not inside) a top-level fram
 
 ---
 
-### 🔡ㅤO
+### O
 
 ---
 
-### 🔡ㅤP
+### P
 
 #### Pattern Hero
 
@@ -251,11 +251,11 @@ This plugin Generates a Scaffold for your Product design project in just 1 click
 
 ---
 
-### 🔡ㅤQ
+### Q
 
 ---
 
-### 🔡ㅤR
+### R
 
 #### Reattach Instance
 
@@ -289,7 +289,7 @@ Replace placeholder Figma text values with real data from real APIs.
 
 ---
 
-### 🔡ㅤS
+### S
 
 #### Send to top
 
@@ -324,7 +324,7 @@ Import color palettes from popular design systems directly to your file.
 
 ---
 
-### 🔡ㅤT
+### T
 
 #### Tailwind CSS
 
@@ -346,11 +346,11 @@ Figma plugin for making good typographic text.
 
 ---
 
-### 🔡ㅤU
+### U
 
 ---
 
-### 🔡ㅤV
+### V
 
 #### Valor
 
@@ -360,19 +360,19 @@ Visualise existing or new color palettes in your design system or Generate lists
 
 ---
 
-### 🔡ㅤW
+### W
 
 ---
 
-### 🔡ㅤX
+### X
 
 ---
 
-### 🔡ㅤY
+### Y
 
 ---
 
-### 🔡ㅤZ
+### Z
 
 #### zebra
 
