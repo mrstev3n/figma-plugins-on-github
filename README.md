@@ -410,48 +410,41 @@ A collection of resources to help accelerate the development process of Figma Pl
 
 ---
 
+#### Create Figma Plugin
+
+A toolkit for developing Figma plugins.
+
+[Repo](https://github.com/yuanqing/create-figma-plugin)
+
+#### Create React Figma Plugin ![mac.svg](assets/react.svg)
+
+A CLI tool to generate a Figma plugin project with React. Supports CSS modules, Typescript & SCSS and UI can be viewed in browser for quicker iteration.
+
+[Repo](https://github.com/mtmeyer/create-react-figma-plugin) | [npm](https://www.npmjs.com/package/@mtmeyer/create-react-figma-plugin)
+
+#### Drag and Drop Example
+
+A sample plugin showing a reliable way to implement drag and drop from the plugin window to the Figma canvas.
+
+[Repo](https://github.com/jackiecorn/figma-plugin-drag-and-drop)
+
 #### Figma Plugin DS
 
 HTMl/JS/CSS design system without dependencies that closesly matches the Figma UI for use in plugins
 
 [Repo](https://github.com/thomas-lowry/figma-plugin-ds)
 
-#### Figsvelte ![mac.svg](assets/svelte.svg)
-
-A boilerplate for creating Figma plugins using Svelte (which comes preconfigured with a Svelte components Figma Plugin DS Svelte.
-
-[Repo](https://github.com/thomas-lowry/figma-plugin-ds-svelte)
-
 #### Figma Plugin DS Svelte ![mac.svg](assets/svelte.svg)
-
 
 This is a Svelte version of the Figma Plugin DS specifically for use in creating Figma Plugins.
 
 [Repo](https://github.com/thomas-lowry/figma-plugin-ds-svelte)
 
-#### Figma Plugin Template ![mac.svg](assets/svelte.svg)
+#### Figma Plugin Helper Functions
 
-This is a Figma plugin template using rollup and svelte. TS and SCSS support included 🤙
+A growing collection of Figma Plugin helper functions (WIP), soon to be published on NPM.
 
-[Repo](https://github.com/tomquinonero/figma-plugin-template)
-
-#### Figplug
-
-Figma plugin Builder
-
-[Repo](https://github.com/rsms/figplug)
-
-#### Fika
-
-A small figma plugin generator using Parcel.
-
-[Repo](https://github.com/mattdesl/fika)
-
-#### Create Figma Plugin
-
-A toolkit for developing Figma plugins.
-
-[Repo](https://github.com/yuanqing/create-figma-plugin)
+[Repo](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers)
 
 #### Figma Plugin React Template ![mac.svg](assets/react.svg)
 
@@ -459,13 +452,11 @@ This template contains the react example as shown on Figma Docs, with some struc
 
 [Repo](https://github.com/nirsky/figma-plugin-react-template)
 
-#### React Figma Plugin DS ![mac.svg](assets/react.svg)
+#### Figma Plugin Template ![mac.svg](assets/svelte.svg)
 
-React components of Figma design system based on [thomas-lowry/figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds).
+This is a Figma plugin template using rollup and svelte. TS and SCSS support included 🤙
 
-[Demo](https://alexandrtovmach.github.io/react-figma-plugin-ds/)
-[Repo](https://github.com/alexandrtovmach/react-figma-plugin-ds)
-[npm](https://www.npmjs.com/package/react-figma-plugin-ds)
+[Repo](https://github.com/tomquinonero/figma-plugin-template)
 
 #### Figma Plugin Vue Starter ![mac.svg](assets/vue.svg)
 
@@ -493,20 +484,30 @@ Vue3, TypeScript, figma-plugin-ds integration, message handlers.
 
 [Repo](https://github.com/LukeFinch/Figma-Vue3-Template)
 
-#### Figma Plugin Helper Functions
+#### Figplug
 
-A growing collection of Figma Plugin helper functions (WIP), soon to be published on NPM.
+Figma plugin Builder
 
-[Repo](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers)
+[Repo](https://github.com/rsms/figplug)
 
-#### Drag and Drop Example
 
-A sample plugin showing a reliable way to implement drag and drop from the plugin window to the Figma canvas.
 
-[Repo](https://github.com/jackiecorn/figma-plugin-drag-and-drop)
+#### Figsvelte ![mac.svg](assets/svelte.svg)
 
-#### Create React Figma Plugin ![mac.svg](assets/react.svg)
+A boilerplate for creating Figma plugins using Svelte (which comes preconfigured with a Svelte components Figma Plugin DS Svelte.
 
-A CLI tool to generate a Figma plugin project with React. Supports CSS modules, Typescript & SCSS and UI can be viewed in browser for quicker iteration.
+[Repo](https://github.com/thomas-lowry/figma-plugin-ds-svelte)
 
-[Repo](https://github.com/mtmeyer/create-react-figma-plugin) | [npm](https://www.npmjs.com/package/@mtmeyer/create-react-figma-plugin)
+#### Fika
+
+A small figma plugin generator using Parcel.
+
+[Repo](https://github.com/mattdesl/fika)
+
+#### React Figma Plugin DS ![mac.svg](assets/react.svg)
+
+React components of Figma design system based on [thomas-lowry/figma-plugin-ds](https://github.com/thomas-lowry/figma-plugin-ds).
+
+[Demo](https://alexandrtovmach.github.io/react-figma-plugin-ds/)
+[Repo](https://github.com/alexandrtovmach/react-figma-plugin-ds)
+[npm](https://www.npmjs.com/package/react-figma-plugin-ds)
