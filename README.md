@@ -502,6 +502,12 @@ A small figma plugin generator using Parcel.
 
 [Repo](https://github.com/mattdesl/fika)
 
+#### Party Figma
+
+This is a fork of the awesome [party-js](https://party.js.org/) library to work inside of Figma.
+
+[Repo](https://github.com/ymichael/party-figma)
+
 #### Plugma
 
 A small framework and CLI for developing and maintaining Figma plugins
