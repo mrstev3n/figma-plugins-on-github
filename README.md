@@ -490,8 +490,6 @@ Figma plugin Builder
 
 [Repo](https://github.com/rsms/figplug)
 
-
-
 #### Figsvelte ![mac.svg](assets/svelte.svg)
 
 A boilerplate for creating Figma plugins using Svelte (which comes preconfigured with a Svelte components Figma Plugin DS Svelte.
@@ -503,6 +501,12 @@ A boilerplate for creating Figma plugins using Svelte (which comes preconfigured
 A small figma plugin generator using Parcel.
 
 [Repo](https://github.com/mattdesl/fika)
+
+#### Plugma
+
+A small framework and CLI for developing and maintaining Figma plugins
+
+[Repo](https://github.com/gavinmcfarland/plugma)
 
 #### React Figma Plugin DS ![mac.svg](assets/react.svg)
 
